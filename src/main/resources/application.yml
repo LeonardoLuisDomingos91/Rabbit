@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: dev-rabbit
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: kamisama123
+
+server:
+  port: 8080
